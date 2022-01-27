@@ -1,0 +1,5 @@
+# What is IaaS
+
+Infrastructure as a Service is where you have a hypervisor, and the hypervisor you can provision virtual machines, and Infrastructure as a Service could also be where you're actually renting the physical server itself. So it's a couple of different definitions, but essentially it allows you to host an operating system on the cloud, which then is unique to you. Nobody else can log into it and you go in and then manage it yourself. So that's what Infrastructure as a Service is at a very high level. With Infrastructure as a Service you only pay for what you use, so it depends on the model. On Amazon, it's a per second billing model right now for Linux instances. Windows instances are on a per hour basis. Google does it on a per minute basis, but they might be about to change this.
+
+With Infrastructure as a Service you only pay for what you use, and the idea is there's no long-term or fixed contract. So if you need to stop using that service you can just power it down and you'll stop being billed for it.
