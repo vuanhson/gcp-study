@@ -1,0 +1,3 @@
+# What is serverless
+
+With serverless, the cloud provider like Amazon manage all of the infrastructure for you and you don't need to think about it in terms that you used to think about, you know, physical machines. You don't have to think, oh well I need a server spun up for me in the cloud. I need to be able to get into in, set it up, make sure it's running my code. All I do now with serverless is give my code to Amazon or to Microsoft or to Google and say, "Run it whenever a customer needs something." And that's the ultimate abstraction. They deal with the challenge of scaling that. They deal with all the operations of having people available 24/7 to fix things when things break. They provide guarantees to me as a customer, SLAs, and I can trust them to run my code.

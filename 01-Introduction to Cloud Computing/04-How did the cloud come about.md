@@ -1,0 +1,11 @@
+# How did the cloud come about
+
+In the early days of the internet, if you wanted a server, you needed to run it yourself. You needed to buy one, you needed to set it up, power it up, plug it in, connect it to the internet, and you needed to keep it running, 24/7, keep your internet connection on. There was a lot of work involved, just to manage a server.
+
+So then people realized they could outsource this. So data centers came along in a really big way. So you could go to a data center and they would set up racks of servers that you could rent for them. So you would, say, contact a data center, you'd say "Hey, I want a server. "I want a server on the internet, can you give me one?" And there'd generally be like a, you'd have to email them, or call them, and there would be a lead time, often of a few days or even a few weeks, to get these servers provisioned. At first they provided only infrastructure support, so they basically would provide those servers with power, with heating or cooling, electricity, that sort of thing, but then later on, people were requesting for Rackspace to support the operating systems, or to support the application layer. And so Rackspace started going deeper and deeper into it. And there's still large upfront investments. You had to pay for those servers, you had to sign lengthy contracts with the data centers, because obviously they're buying hardware for you, and they want to make sure you're locked in for a couple of years. So it was a relatively expensive way to access computing power.
+
+Fast forward to about 2006 and Amazon comes out and launches their first cloud platform, they launch EC2. But the benefit of it was that you didn't have to worry about providing electricity, you didn't have to worry about providing the internet, they managed all that for you, the physical security so no one could get in and steal the computers. So, you were outsourcing the physical hosting of the machine to someone else.
+
+And that sort of, basically changed the world, because instead of taking days or weeks or months to provision new servers, you could do it via an API call, and you could have a virtual machine up and running. 
+
+So the journey to cloud has really been occurring over from '95 through to about 2006. It's a 10-year period of moving to the cloud.

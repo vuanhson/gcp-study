@@ -1,0 +1,3 @@
+# How Secure is the cloud
+
+To be honest, the cloud is so secure now, it's actually more secure to put things in the cloud than to have things on-prem. I mean, we just saw this with a big hack of the NHS. The reason the NHS was hacked was because they just weren't doing simple software updates whereas if you rely on someone like Amazon, you know they're going to patch their servers and operating systems the whole time. So security in the cloud, it's actually probably more safe in the cloud than it is doing anything on-premise so, I'd recommend definitely moving to cloud. It's far more secure. This isn't the early-2000s where public cloud had a bit of a bad reputation. Nowadays, it's far safer to put things up into public cloud than not to.
